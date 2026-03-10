@@ -1,0 +1,9 @@
+.main{
+    width: 450px;
+    height: auto;
+    background-color: aqua;
+    justify-self: center;
+    form{
+        justify-self: center;
+    }
+}
