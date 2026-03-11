@@ -1,9 +1,13 @@
 .main{
-    width: 450px;
+    width: 350px;
     height: auto;
-    background-color: aqua;
+    
     justify-self: center;
     form{
         justify-self: center;
     }
+    margin-top: 100px;
+    box-shadow: 0.5px 0.5px 2px black;
+    border-radius: 5px;
+    
 }
