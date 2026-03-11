@@ -10,4 +10,18 @@
     box-shadow: 0.5px 0.5px 2px black;
     border-radius: 5px;
     
+    button{
+         background-color: red;
+         color: white;
+         padding: 5px 15px;
+         margin-left: 5px;
+         border-radius: 5px;
+    }
+    input{
+        padding: 5px 0px; 
+        margin: 10px 0;
+    }
+    
+        
+    
 }
