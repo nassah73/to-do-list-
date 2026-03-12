@@ -2,7 +2,11 @@ import React from "react";
 export default function Main(){
     
        const [arr,setArr]=React.useState([]);
-    const task=arr.map((data)=>{ return <li key={data}>{data}</li>
+    const task=arr.map((data)=>{
+       return <div>
+       <li key={data}>{data}</li>
+       <button></button>
+       </div>
     })
   
 function handel_submet(event){
